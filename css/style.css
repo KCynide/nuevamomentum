@@ -31,6 +31,7 @@ h2{
     top: 60%;
     left: 65%;
     transform: translate(-50%, -50%);
+    background-color: transparent;
     color: white;
     font-size: 30px;
 }
