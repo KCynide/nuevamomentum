@@ -29,7 +29,7 @@ form input:first-child{
 form input:last-child{
     position: fixed;
     top: 58%;
-    left: 55%;
+    left: 60%;
     transform: translate(-50%, -50%);
     background-color: transparent;
     color: white;
