@@ -19,7 +19,7 @@ h2{
 }
 #login_form{
     position: fixed;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: transparent;
@@ -27,7 +27,7 @@ h2{
 }
 #submit_btn{
     position: fixed;
-    top: 50%;
+    top: 60%;
     left: 80%;
     transform: translate(-50%, -50%);
     color: white;
