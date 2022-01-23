@@ -30,6 +30,7 @@ input:nth-child(2){
     top: 50%;
     left: 80%;
     transform: translate(-50%, -50%);
+    color: white;
 }
 input:last-child{
     position: fixed;
