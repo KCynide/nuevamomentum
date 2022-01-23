@@ -4,12 +4,12 @@ const quotes = [
         author: "Thomas Eddison",
     },
     {
-        quote: "Life is what happens when you're busy making other plans.",
-        author: "John Lennon",
+        quote: "No matter what situation you are in, attitude towards life is your freedom to choose.",
+        author: "Victor Frankl",
     },
     {
-        quote: "The world is a book and those who do not travel read only one page.",
-        author: "Saint Augustine",
+        quote: "Everyday in everyway I am getting better and better",
+        author: "Emile Coue",
     },
     {
         quote: "Life is either a daring adventure or nothing at all.",

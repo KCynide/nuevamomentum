@@ -17,7 +17,7 @@ h2{
     color: #fff;
     text-shadow: -2px 0 #000, 0 2px #000, 2px 0 #000, 0 -2px #000;
 }
-#login_form{
+#login_input{
     position: fixed;
     top: 60%;
     left: 50%;
@@ -29,7 +29,7 @@ h2{
 #submit_btn{
     position: fixed;
     top: 60%;
-    left: 80%;
+    left: 65%;
     transform: translate(-50%, -50%);
     color: white;
     font-size: 30px;
