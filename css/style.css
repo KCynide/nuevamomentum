@@ -28,7 +28,7 @@ input:first-child{
 input:nth-child(2){
     position: fixed;
     top: 50%;
-    left: 60%;
+    left: 80%;
     transform: translate(-50%, -50%);
 }
 input:last-child{
