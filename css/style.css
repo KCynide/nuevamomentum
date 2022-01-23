@@ -1,0 +1,94 @@
+.hidden {
+    display: none;
+}
+body{
+    margin:0;
+}
+img{
+    width: 100vw;
+    height: 100vh;
+}
+h2{
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    color: #fff;
+    text-shadow: -2px 0 #000, 0 2px #000, 2px 0 #000, 0 -2px #000;
+}
+input:first-child{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    border: none;
+}
+input:nth-child(2){
+    position: fixed;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+input:last-child{
+    position: fixed;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    border: none;
+    font-size: 50px;
+    text-decoration: none;
+    width: 700px;
+}
+h1{
+    position: fixed;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    color: #fff;
+    text-shadow: -2px 0 #000, 0 2px #000, 2px 0 #000, 0 -2px #000;
+}
+#quote{
+    position: fixed;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 90%;
+    color: #fff;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-shadow: -2px 0 #000, 0 2px #000, 2px 0 #000, 0 -2px #000;
+    font-size: 20px;
+}
+#weather span:first-child{
+    position: fixed;
+    top: 2%;
+    left: 90%;
+    font-size: 20px;
+    color: #fff;
+    text-shadow: -2px 0 #000, 0 2px #000, 2px 0 #000, 0 -2px #000;
+}
+#weather span:last-child{
+    position: fixed;
+    top: 5%;
+    left: 90%;
+    font-size: 20px;
+    color: #fff;
+    text-shadow: -2px 0 #000, 0 2px #000, 2px 0 #000, 0 -2px #000;
+}
+li{
+    position: fixed;
+    top: 100%;
+    left: 100%;
+    transform: translate(-100%, -100%);
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    color: #fff;
+}
