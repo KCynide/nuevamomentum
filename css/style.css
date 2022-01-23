@@ -19,7 +19,7 @@ h2{
 }
 form input:first-child{
     position: fixed;
-    top: 60%;
+    top: 58%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: transparent;
@@ -28,8 +28,8 @@ form input:first-child{
 }
 form input:last-child{
     position: fixed;
-    top: 60%;
-    left: 65%;
+    top: 58%;
+    left: 55%;
     transform: translate(-50%, -50%);
     background-color: transparent;
     color: white;
@@ -88,8 +88,6 @@ li{
     top: 100%;
     left: 100%;
     transform: translate(-100%, -100%);
-}
-ul{
     display: flex;
     justify-content: center;
     align-items: flex-start;
