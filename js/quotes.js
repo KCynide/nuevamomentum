@@ -44,6 +44,14 @@ const quotes = [
 const quote = document.querySelector("#quote span:first-child");
 const author = document.querySelector("#quote span:last-child");
 const todaysQuote = quotes[Math.floor(Math.random() * quotes.length)];
-  
+const HIDDEN_CLASSNAME = "hidden";
+
 quote.innerText = todaysQuote.quote;
 author.innerText = todaysQuote.author;
+
+
+function onQuotes(event) {
+    quote.addEventListener("mouseover", onQuotes);
+    event.preventDefault();
+    author.classList.remove(HIDDEN_CLASSNAME);
+}
